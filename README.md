@@ -55,26 +55,37 @@ I am interested in graduate research at the intersection of **clinical medical p
 - **Medical and Environmental Solid Waste Management: A Biotechnical Solution Aligned with UN SDGs.** Best Poster Award, 4th ICMPROI 2025; also presented at Chemovate and the MPBME Poster Competition.
 - **Aspects of Medical Physics in Bangladesh: A Growing Field with a Bright Future.** Oral presentation at the 11th Annual BMPS Conference 2023; ePoster accepted at ECMP 2024, Munich, Germany, ID 771.
 
-## Academic training
+## International academic training
 
-These programs add international breadth to my preparation for graduate research in medical physics, quantitative imaging, and trustworthy AI.
+A focused set of international programs spanning **trustworthy machine learning, medical imaging, and radiation therapy**.
 
 <table>
 <tr>
-<td align="center" width="33%"><strong>🇮🇹 ITALY</strong><br><sub>ICTP · Trieste</sub></td>
-<td align="center" width="33%"><strong>🇮🇩 INDONESIA</strong><br><sub>Diponegoro University · Semarang</sub></td>
-<td align="center" width="33%"><strong>🇺🇸 USA-BASED</strong><br><sub>Rayos Contra Cancer</sub></td>
-</tr>
-<tr>
-<td valign="top"><strong>ICTP Advanced School in Applied Machine Learning</strong><br><br><sub>Uncertainty and Robustness of Deep Learning Models for Science (SMR 4228)<br><br>July 2026 · Remote participant from Bangladesh<br><br>Uncertainty quantification, Bayesian deep learning, simulation-based inference, robust foundation models, explainable AI, and trustworthy AI.</sub></td>
-<td valign="top"><strong>Summer Course in Medical Physics</strong><br><br><sub>Faculty of Science & Mathematics, Diponegoro University, Semarang, Indonesia<br><br>August 2025 · 23.3 hours · Certificate 81/UN7.F8/HK/VIII/2025<br><br>CT physics, image-quality metrics, MTF, NPS, SNR, CNR, LCD, DICOM/PACS, IndoQCT, computational phantoms, and noise reduction.</sub></td>
-<td valign="top"><strong>2D to 3D External Beam Radiation Therapy (EBRT)</strong><br><br><sub>Rayos Contra Cancer International · USA-based organization<br><br>September 2024 - April 2025 · 18 didactic hours · Certified<br><br>Acceptance, commissioning, CT simulation, 3D-CRT planning, treatment delivery, portal-image review, documentation, workflow, and QA.</sub></td>
+<td valign="top" width="33%">
+<h3>01 · Applied ML</h3>
+<strong>ICTP Advanced School in Applied Machine Learning</strong><br>
+<sub><strong>Trieste, Italy · 23–31 July 2026</strong></sub><br><br>
+Completed online through the Abdus Salam International Centre for Theoretical Physics (ICTP). The school focused on uncertainty and robustness of deep-learning models for science, including uncertainty quantification, Bayesian deep learning, simulation-based inference, robust foundation models, explainable AI, and trustworthy AI.
+</td>
+<td valign="top" width="33%">
+<h3>02 · Medical Physics</h3>
+<strong>Summer Course in Medical Physics 2025</strong><br>
+<sub><strong>Diponegoro University · Semarang, Indonesia · 12–21 August 2025</strong></sub><br><br>
+Completed and passed the examination under the Physics Department, Faculty of Science and Mathematics. <strong>1,400 minutes</strong> of training covering CT physics, DICOM hierarchy and tags, PACS, computational phantoms, IndoQCT, CT number, noise/NPS, MTF/TTF, low-contrast detectability, slice geometry, alignment, and noise reduction.<br><br>
+<sub>Certificate No. 81/UN7.F8/HK/VIII/2025</sub>
+</td>
+<td valign="top" width="33%">
+<h3>03 · Radiation Therapy</h3>
+<strong>2D to 3D External Beam Radiation Therapy</strong><br>
+<sub><strong>Rayos Contra Cancer · USA-based · September 2024–April 2025</strong></sub><br><br>
+Completed <strong>18 didactic hours</strong> through live sessions. Training covered acceptance, commissioning, simulation, written planning directives, 3D-conformal radiotherapy planning, documentation, workflow, treatment delivery, portal-image review, and quality assurance.
+</td>
 </tr>
 </table>
 
 ### Research development
 
-- **Supervised Research Internship Program (FRONTIER-02)** - Center for Bio-Health Research Bangladesh, October 2025 - April 2026. Six-month, 70+ hour, competitively selected program focused on research methodology, conference-paper development, and scholarly communication.
+- **Supervised Research Internship Program (FRONTIER-02)** — Center for Bio-Health Research Bangladesh, October 2025–April 2026. Six-month, 70+ hour, competitively selected program focused on research methodology, conference-paper development, and scholarly communication.
 ## Education
 
 ### Bachelor of Science in Medical Physics & Biomedical Engineering
