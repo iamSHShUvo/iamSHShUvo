@@ -1,94 +1,110 @@
 <h1 align="center">Md. Shahadat Hossen Shuvo</h1>
 <p align="center">
-  <strong>Radiomics & Explainable AI Researcher · Medical Physics & Biomedical Engineering Graduate</strong><br>
-  <strong>AI for Cancer Research · Radiation Oncology · Performance Marketing</strong>
+  <strong>Radiomics & Dosiomics Researcher | Medical Physics & Biomedical Engineering</strong><br>
+  <strong>AI in Oncology | Radiation Therapy | Explainable AI</strong>
 </p>
 <p align="center">
   <a href="https://github.com/iamSHShUvo"><img src="https://img.shields.io/badge/GitHub-iamSHShUvo-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/s-h-shuvo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/s-h-shuvo/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://orcid.org/0009-0004-5557-077X"><img src="https://img.shields.io/badge/ORCID-0009--0004--5557--077X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://scholar.google.com/citations?user=xZ41z-IAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 </p>
 
-## About
+## Research profile
 
-I am a **Radiomics and Explainable AI Researcher** with a background in **Medical Physics and Biomedical Engineering**, working at the intersection of radiation oncology, medical imaging, trustworthy AI, and digital innovation.
+I am a medical physics and biomedical engineering graduate focused on **AI in oncology, radiomics and dosiomics, medical imaging, radiation therapy, and explainable AI**. My research examines whether machine-learning models developed in one population remain reliable when applied to another, with particular interest in the underrepresentation of South Asian patients in medical-AI validation.
 
-My research asks a practical question: **can AI models developed on one population be trusted when deployed on another?** I build reproducible workflows that combine radiomics, dosiomics, domain-shift analysis, and SHAP-based explainability to study model reliability for South Asian patients.
-
-Alongside research, I co-founded and lead performance marketing at Adslex, where I translate complex technical and business problems into measurable growth strategies for healthcare, e-commerce, and other organizations.
-
-## Research impact at a glance
+I am interested in graduate research at the intersection of **clinical medical physics, quantitative imaging, trustworthy machine learning, and equitable cancer care**. My approach combines hands-on clinical workflow experience with reproducible computational research and open-source scientific software.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/597%20patients-DICOM%20research%20dataset-0A7B83?style=for-the-badge" alt="597 patients">
-  <img src="https://img.shields.io/badge/2%20oncology%20centres-Bangladesh-6C5CE7?style=for-the-badge" alt="Two oncology centres">
-  <img src="https://img.shields.io/badge/70%2B%20hours-Supervised%20research-FF8C42?style=for-the-badge" alt="70 plus hours">
+  <img src="https://img.shields.io/badge/597%20patients-Clinical%20DICOM%20cohort-0A7B83?style=for-the-badge" alt="597 patients">
+  <img src="https://img.shields.io/badge/107-Radiomic%20%26%20dosiomic%20features-6C5CE7?style=for-the-badge" alt="107 features">
+  <img src="https://img.shields.io/badge/3-Institutions-FF8C42?style=for-the-badge" alt="Three institutions">
 </p>
 
-## Research focus
+## Research experience
 
-- **Radiomics & dosiomics** — reproducible imaging and dose-based biomarkers
-- **Explainable AI** — SHAP-guided interpretation of clinical machine-learning models
-- **Cross-population generalizability** — auditing domain shift between Western and South Asian cohorts
-- **Radiation oncology** — CT simulation, IMRT, VMAT, DIBH-3DCRT, and clinical QA workflows
-- **Trustworthy AI for global health** — safer, transparent, and resource-aware cancer research
+### Research Assistant | Square Hospitals Ltd. and Ahsania Mission Cancer and General Hospital
+**Jan 2025 - Apr 2026 | Dhaka, Bangladesh**
 
-## Experience
+- Led a lung-cancer analytical study using clinical imaging data from two major oncology centres in Dhaka.
+- Developed a forensic DICOM processing pipeline that recovered **92.5% of corrupted local cases**.
+- Extracted **107 radiomic and dosiomic features across 597 patients from three institutions**.
+- Quantified cross-population generalizability and investigated the underrepresentation of South Asian cohorts in radiomics and dosiomics validation.
+- Developed machine-learning classification models and applied SHAP-based explainability.
+- Participated in CT simulation, treatment-plan review, and clinical QA alongside medical physicists, including IMRT, VMAT, and DIBH-3DCRT workflows.
+- Open-sourced the research codebase under the MIT license: [LUNG-RP-XAI](https://github.com/iamSHShUvo/LUNG-RP-XAI).
 
-### Co-Founder & Performance Marketing Strategist · [Adslex](https://www.linkedin.com/in/s-h-shuvo/)
-**Jun 2024 – Present · Remote**
+### Project Lead | Post-Surgery Rehabilitation EMG Nerve Tracking Device
+**2025 | Biomedical hardware project**
 
-- Lead client acquisition and end-to-end client relationships, from requirements analysis through delivery.
-- Translate complex technical concepts into clear recommendations for non-technical stakeholders.
-- Deliver performance insights and ROI-focused reporting for healthcare and e-commerce clients.
-- Work across Meta Ads, client communication, campaign strategy, and performance optimization.
+- Designed and prototyped a low-cost EMG device using Arduino Uno and surface electrodes for post-surgical muscle-activation monitoring.
+- Programmed initial data acquisition in C and conducted preliminary hardware testing and literature review on signal filtering.
 
-### Research Assistant · SQUARE HOSPITALS LTD
-**Apr 2025 – Apr 2026 · Dhaka, Bangladesh**
+## Publications and scholarly work
 
-- Exported and curated real hospital DICOM data for **597 patients across two Bangladeshi oncology centres**.
-- Built the pipeline from raw clinical files to a structured research dataset.
-- Developed machine-learning classification models and applied SHAP to radiomic and dosiomic features.
-- Participated in CT simulation sessions and reviewed LINAC-based IMRT, VMAT, and DIBH-3DCRT treatment plans.
-- Documented clinical QA processes and gained practical experience in live oncology workflows.
+### Peer-reviewed conference proceeding
 
-### Digital Marketing Specialist · AdConvertica
-**Jan 2025 – Nov 2025 · Remote**
+**Rahman, M.M., Aktar, M.M., Rahman, M.H., Nayeem, S.T., Islam, M.K., Roy, T.K., Shuvo, M.S.H., Ali, M.R., Tanvir, G.S., & Soma, J.F. (2025).** [Innovative Shielding Techniques for Doorless Radiotherapy Bunkers: First Implementation at Gazi Medical College Hospital, Bangladesh](https://doi.org/10.3316/informit.T2025122300002191782483117). *IUPESM World Congress on Medical Physics and Biomedical Engineering 2025*, pp. 550-558. Engineers Australia / ACPSEM. ISBN: 9780858250079. Published September 2025 and indexed in Informit.
 
-- Managed Google and Meta Ads campaigns for e-commerce, retail, and education businesses.
-- Set up GA4 conversion tracking and attribution workflows to measure ROI.
-- Reduced wasted ad spend by up to **30%** on test projects through campaign optimization and retargeting.
+### Accepted abstracts and presentations
 
-### Founder & SEO Manager · CUIGEAR
-**Dec 2020 – Mar 2022 · Remote**
+- **Enhanced Patient-Specific QA Protocol for IMRT in Head and Neck Cancer:** A multidetector analysis with risk-based assessment. *IUPESM World Congress 2025*, Adelaide, Australia, Paper ID 168; also accepted at ICMPROI 2025, Dhaka.
+- **Dosimetric Comparison of Free Breathing VMAT and DIBH 3DCRT for Left-Side Breast Cancer.** Poster presented at Research Fair 2024, Bose Centre for Advanced Study, University of Dhaka.
+- **Medical and Environmental Solid Waste Management: A Biotechnical Solution Aligned with UN SDGs.** Best Poster Award, 4th ICMPROI 2025; also presented at Chemovate and the MPBME Poster Competition.
+- **Aspects of Medical Physics in Bangladesh: A Growing Field with a Bright Future.** Oral presentation at the 11th Annual BMPS Conference 2023; ePoster accepted at ECMP 2024, Munich, Germany, ID 771.
 
-- Founded and managed a WordPress-based media website.
-- Reached **20,000 people within the first six months** through strategic content publishing.
-- Led SEO, keyword research, social media distribution, and audience growth.
+## Academic training
+
+- **ICTP Advanced School in Applied Machine Learning: Uncertainty and Robustness of Deep Learning Models for Science (SMR 4228)** - Abdus Salam International Centre for Theoretical Physics, Trieste, Italy, remote participant, July 2026. Topics included uncertainty quantification, Bayesian deep learning, simulation-based inference, robust foundation models, explainable AI, and trustworthy AI.
+- **Supervised Research Internship Program (FRONTIER-02)** - Center for Bio-Health Research Bangladesh, October 2025 - April 2026. Six-month, 70+ hour, competitively selected program focused on research methodology, conference-paper development, and scholarly communication.
+- **2D to 3D External Beam Radiation Therapy (EBRT) Course** - Rayos Contra Cancer International, September 2024 - April 2025. 18 didactic hours covering acceptance, commissioning, CT simulation, 3D-CRT planning, treatment delivery, portal-image review, documentation, workflow, and QA.
+- **Summer Course in Medical Physics** - Faculty of Science & Mathematics, Diponegoro University, Semarang, Indonesia, August 2025. 23.3 hours covering CT physics, image-quality metrics, MTF, NPS, SNR, CNR, LCD, DICOM/PACS, IndoQCT, computational phantoms, and noise reduction.
 
 ## Education
 
-### Gono Bishwabidyalay
-**Medical Physics & Biomedical Engineering graduate**
+### Bachelor of Science in Medical Physics & Biomedical Engineering
+**Gono Bishwabidyalay, Savar, Dhaka, Bangladesh | October 2021 - April 2026**
 
-## Training & research development
+- **CGPA: 3.63 / 4.00**
+- University merit scholarship recipient across multiple semesters.
+- Relevant coursework: radiation oncology physics, treatment planning, dosimetry, radiation biology, digital signal and image processing, biostatistics, brachytherapy, nuclear medicine, and radiological health and safety.
 
-- **ICTP Advanced School in Applied Machine Learning: Uncertainty and Robustness of Deep Learning Models for Science** — Abdus Salam International Centre for Theoretical Physics (ICTP), co-directed with IBM Research, SISSA, and AREA Science Park; Jul 2026.
-- **Supervised Research Internship Program – FRONTIER-02** — Center for Bio-Health Research Bangladesh; six-month supervised research program with 70+ hours focused on research methodology, conference paper development, and scholarly communication; Apr 2026.
+## Conferences and scientific events
 
-## Certifications & professional learning
+- **AMSTRO 2026 Global Oncology Conference** - Dubai, UAE; 15 CPD credits, Dubai Health Authority accreditation.
+- **IUPESM World Congress 2025** - Adelaide, Australia; published conference proceeding.
+- **4th ICMPROI 2025** - Bangladesh Medical Physics Society and BRAC University, Dhaka; Best Poster Award.
+- **5th European Congress of Medical Physics (ECMP 2024)** - Munich, Germany; ePoster accepted, ID 771.
+- **International Conference on Physics (ICP 2024)** - Bangladesh Physical Society, Dhaka; abstract accepted.
+- **Research Fair 2024** - Bose Centre for Advanced Study, University of Dhaka; poster presented.
+- **11th Annual BMPS Conference 2023** - Bangladesh; oral presentation.
+- **MESTRO 2023** - Alfaisal University, Riyadh; 14 CME hours through SCFHS.
 
-- **AMSTRO 2026 Global Oncology Conference** — AMSTRO; 15 CPD credits awarded by Dubai Health Authority; Feb 2026.
-- **Summer Course in Medical Physics** — Diponegoro University; Aug 2025.
-- **2D to 3D External Beam Radiation Therapy (EBRT) Course** — Rayos Contra Cancer; 18 hours of didactic credit; Apr 2025.
-- **Generative AI for Marketing Professional Certificate** — American Marketing Association; Oct 2025.
-- **Generative AI for Digital Marketers** — LinkedIn Learning; Sep 2025.
-- **A Content Marketer's Guide to Responsible AI** — LinkedIn Learning; Aug 2025.
-- **Quarter Finalist, Climate Science Olympiad 2023** — ClimateScience; Jun 2023.
-- **Finalist, 1st Biology and Bioinformatics Olympiad with BioPC** — BioPC; Jan 2023.
+## Academic leadership and awards
 
-## Featured research
+- **Publishing Committee Member**, 4th International Conference on Medical Physics in Radiation Oncology & Imaging (ICMPROI 2025); supported abstract curation, peer-review coordination, and scientific publication.
+- **Best Poster Presentation Award**, ICMPROI 2025.
+- **Finalist**, 1st Biology & Bioinformatics Olympiad, BioPC Bangladesh, 2023.
+- **Quarter-Finalist**, Climate Science Olympiad, 2023.
+- **University Merit Scholarship**, Gono Bishwabidyalay, 2022-2026.
+
+## Research methods and technical skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/PyRadiomics-2F6DB0?style=flat-square" alt="PyRadiomics">
+  <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-6F42C1?style=flat-square" alt="SHAP">
+  <img src="https://img.shields.io/badge/DICOM-1679A7?style=flat-square" alt="DICOM">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+`Radiomics` · `Dosiomics` · `Medical Imaging` · `DICOM/PACS` · `IMRT QA` · `VMAT` · `DIBH-3DCRT` · `3D-CRT` · `CT Image Quality` · `Treatment Planning` · `Python` · `PyRadiomics` · `SHAP` · `PyTorch` · `MATLAB` · `C/Arduino` · `3D Slicer` · `Biostatistics`
+
+## Featured research repository
 
 <a href="https://github.com/iamSHShUvo/LUNG-RP-XAI">
   <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=iamSHShUvo&repo=LUNG-RP-XAI&theme=transparent&hide_border=true" alt="LUNG-RP-XAI repository card">
@@ -98,42 +114,22 @@ Alongside research, I co-founded and lead performance marketing at Adslex, where
 
 **Cross-Population Generalizability of Lung Cancer Radiomics and Dosiomics: Implications for AI Deployment in a South Asian Cohort**
 
-A research project studying whether lung cancer radiomics and dosiomics models generalize across populations, with an emphasis on radiation pneumonitis, explainability, domain shift, and responsible deployment. The project is documented with a [Zenodo preprint](https://doi.org/10.5281/zenodo.20927951) and released under the MIT license.
+An open research codebase for auditing the transportability of lung-cancer radiomics and dosiomics models across populations, with emphasis on domain shift, explainability, radiation pneumonitis, and responsible AI deployment.
 
 <br clear="right"/>
 
-## Tools & methods
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/PyRadiomics-2F6DB0?style=flat-square" alt="PyRadiomics">
-  <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-6F42C1?style=flat-square" alt="SHAP">
-  <img src="https://img.shields.io/badge/DICOM-1679A7?style=flat-square" alt="DICOM">
-  <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics 4">
-  <img src="https://img.shields.io/badge/Meta%20Ads-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads">
-  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
-
-`Medical Imaging` · `Radiotherapy` · `Radiomics` · `Dosiomics` · `Domain Shift` · `Model Generalizability` · `Explainable AI` · `Clinical QA` · `Digital Marketing` · `SEO`
-
-## GitHub at a glance
+## GitHub research activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamSHShUvo&show_icons=true&hide_border=true&theme=transparent&rank=none" alt="GitHub statistics">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSHShUvo&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamSHShUvo&hide_border=true&theme=transparent" alt="GitHub contribution streak">
-</p>
-
-## Connect
-
-I am open to research collaborations, scientific communication, and opportunities involving medical physics, trustworthy AI, cancer research, and measurable digital growth.
+## Academic links
 
 - **LinkedIn:** [linkedin.com/in/s-h-shuvo](https://www.linkedin.com/in/s-h-shuvo/)
 - **ORCID:** [0009-0004-5557-077X](https://orcid.org/0009-0004-5557-077X)
 - **Google Scholar:** [Shahadat Hossen Shuvo](https://scholar.google.com/citations?user=xZ41z-IAAAAJ&hl=en)
+- **Research preprint:** [LUNG-RP-XAI on Zenodo](https://doi.org/10.5281/zenodo.20927951)
 
-<p align="center"><em>Building evidence before building hype.</em></p>
+<p align="center"><em>Researching reliable medical AI for patients beyond the training distribution.</em></p>
