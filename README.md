@@ -43,10 +43,11 @@ I am interested in graduate research at the intersection of **clinical medical p
 
 ## Publications and scholarly work
 
-### Peer-reviewed conference proceeding
+### Peer-reviewed Springer book chapter
 
-**Rahman, M.M., Aktar, M.M., Rahman, M.H., Nayeem, S.T., Islam, M.K., Roy, T.K., Shuvo, M.S.H., Ali, M.R., Tanvir, G.S., & Soma, J.F. (2025).** [Innovative Shielding Techniques for Doorless Radiotherapy Bunkers: First Implementation at Gazi Medical College Hospital, Bangladesh](https://doi.org/10.3316/informit.T2025122300002191782483117). *IUPESM World Congress on Medical Physics and Biomedical Engineering 2025*, pp. 550-558. Engineers Australia / ACPSEM. ISBN: 9780858250079. Published September 2025 and indexed in Informit.
+**Rahman, M.M., Aktar, M.M., Rahman, M.H., Nayeem, S.T., Islam, M.K., Roy, T.K., Shuvo, M.S.H., Ali, M.R., Tanvir, G.S., & Soma, J.F. (2026).** [Innovative Shielding Techniques for Doorless Radiotherapy Bunkers: First Implementation at Gazi Medical College Hospital, Bangladesh](https://doi.org/10.1007/978-3-032-20287-1_35). *IFMBE Proceedings: Proceedings of IUPESM World Congress on Medical Physics and Biomedical Engineering XXVII*, 383-390. Springer Nature Switzerland. First published online 2 August 2026.
 
+> **Publication status:** Peer-reviewed · Springer Nature · DOI-indexed · IUPESM World Congress 2025, Adelaide, Australia
 ### Accepted abstracts and presentations
 
 - **Enhanced Patient-Specific QA Protocol for IMRT in Head and Neck Cancer:** A multidetector analysis with risk-based assessment. *IUPESM World Congress 2025*, Adelaide, Australia, Paper ID 168; also accepted at ICMPROI 2025, Dhaka.
@@ -56,11 +57,24 @@ I am interested in graduate research at the intersection of **clinical medical p
 
 ## Academic training
 
-- **ICTP Advanced School in Applied Machine Learning: Uncertainty and Robustness of Deep Learning Models for Science (SMR 4228)** - Abdus Salam International Centre for Theoretical Physics, Trieste, Italy, remote participant, July 2026. Topics included uncertainty quantification, Bayesian deep learning, simulation-based inference, robust foundation models, explainable AI, and trustworthy AI.
-- **Supervised Research Internship Program (FRONTIER-02)** - Center for Bio-Health Research Bangladesh, October 2025 - April 2026. Six-month, 70+ hour, competitively selected program focused on research methodology, conference-paper development, and scholarly communication.
-- **2D to 3D External Beam Radiation Therapy (EBRT) Course** - Rayos Contra Cancer International, September 2024 - April 2025. 18 didactic hours covering acceptance, commissioning, CT simulation, 3D-CRT planning, treatment delivery, portal-image review, documentation, workflow, and QA.
-- **Summer Course in Medical Physics** - Faculty of Science & Mathematics, Diponegoro University, Semarang, Indonesia, August 2025. 23.3 hours covering CT physics, image-quality metrics, MTF, NPS, SNR, CNR, LCD, DICOM/PACS, IndoQCT, computational phantoms, and noise reduction.
+These programs add international breadth to my preparation for graduate research in medical physics, quantitative imaging, and trustworthy AI.
 
+<table>
+<tr>
+<td align="center" width="33%"><strong>🇮🇹 ITALY</strong><br><sub>ICTP · Trieste</sub></td>
+<td align="center" width="33%"><strong>🇮🇩 INDONESIA</strong><br><sub>Diponegoro University · Semarang</sub></td>
+<td align="center" width="33%"><strong>🇺🇸 USA-BASED</strong><br><sub>Rayos Contra Cancer</sub></td>
+</tr>
+<tr>
+<td valign="top"><strong>ICTP Advanced School in Applied Machine Learning</strong><br><br><sub>Uncertainty and Robustness of Deep Learning Models for Science (SMR 4228)<br><br>July 2026 · Remote participant from Bangladesh<br><br>Uncertainty quantification, Bayesian deep learning, simulation-based inference, robust foundation models, explainable AI, and trustworthy AI.</sub></td>
+<td valign="top"><strong>Summer Course in Medical Physics</strong><br><br><sub>Faculty of Science & Mathematics, Diponegoro University, Semarang, Indonesia<br><br>August 2025 · 23.3 hours · Certificate 81/UN7.F8/HK/VIII/2025<br><br>CT physics, image-quality metrics, MTF, NPS, SNR, CNR, LCD, DICOM/PACS, IndoQCT, computational phantoms, and noise reduction.</sub></td>
+<td valign="top"><strong>2D to 3D External Beam Radiation Therapy (EBRT)</strong><br><br><sub>Rayos Contra Cancer International · USA-based organization<br><br>September 2024 - April 2025 · 18 didactic hours · Certified<br><br>Acceptance, commissioning, CT simulation, 3D-CRT planning, treatment delivery, portal-image review, documentation, workflow, and QA.</sub></td>
+</tr>
+</table>
+
+### Research development
+
+- **Supervised Research Internship Program (FRONTIER-02)** - Center for Bio-Health Research Bangladesh, October 2025 - April 2026. Six-month, 70+ hour, competitively selected program focused on research methodology, conference-paper development, and scholarly communication.
 ## Education
 
 ### Bachelor of Science in Medical Physics & Biomedical Engineering
