@@ -1,4 +1,4 @@
-<h1 align="center">Md. Shahadat Hossen Shuvo</h1>
+<h1 align="center">Md Shahadat Hossen Shuvo</h1>
 <p align="center">
   <strong>Radiomics & Dosiomics Researcher | Medical Physics & Biomedical Engineering</strong><br>
   <strong>AI in Oncology | Radiation Therapy | Explainable AI</strong>
