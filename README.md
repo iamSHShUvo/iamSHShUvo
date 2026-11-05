@@ -75,6 +75,7 @@ I am preparing for graduate research at the intersection of **clinical medical p
 **Gono Bishwabidyalay, Savar, Dhaka, Bangladesh · Oct 2021 – Apr 2026**
 
 - **CGPA: 3.63 / 4.00** · University merit scholarship recipient.
+- **IELTS Academic: Band 7.5** (Listening 8.5 · Reading 8.0 · Writing 6.5 · Speaking 7.0), August 2026.
 - Relevant coursework: radiation oncology physics, treatment planning, dosimetry, radiation biology, digital signal and image processing, biostatistics, brachytherapy, nuclear medicine, and radiological health and safety.
 
 ## Conferences, leadership, and awards
