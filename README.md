@@ -122,7 +122,7 @@ An open research codebase for auditing the transportability of lung-cancer radio
 ## GitHub activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamSHShUvo/iamSHShUvo/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity">
+  <img src="https://raw.githubusercontent.com/iamSHShUvo/iamSHShUvo/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution activity">
 </p>
 
 <p align="center">
