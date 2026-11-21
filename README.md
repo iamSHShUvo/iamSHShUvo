@@ -57,7 +57,8 @@ I am preparing for graduate research at the intersection of **clinical medical p
 
 ### Research preprint
 
-**Shuvo, M. S. H., Sayed, H. I., Islam, M. A., & Alam, M. J. (2026).** *Cross-Population Generalizability of Lung Cancer Radiomics and Dosiomics: Implications for AI Deployment in a South Asian Cohort.* **Preprint**, Zenodo. [https://doi.org/10.5281/zenodo.20927951](https://doi.org/10.5281/zenodo.20927951)
+**Shuvo, M. S. H., Sayed, H. I., Islam, M. A., & Alam, M. J. (2026).** *Cross-Population Generalizability of Lung Cancer Radiomics and Dosiomics: Implications for AI Deployment in a South Asian Cohort.* **Preprint**, Zenodo. [https://doi.org/10.5281/zenodo.20927951](https://doi.org/10.5281/zenodo.20927951)  
+**Status:** Preprint available; journal manuscript in preparation for submission to a leading peer-reviewed journal.
 ### Peer-reviewed and accepted presentations
 
 - **Enhanced Patient-Specific QA Protocol for IMRT in Head and Neck Cancer:** multidetector analysis with risk-based assessment. *IUPESM World Congress 2025*, Adelaide, Paper ID 168; also accepted at ICMPROI 2025, Dhaka.
